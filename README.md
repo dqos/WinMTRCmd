@@ -1,4 +1,4 @@
-Note: I am looking for a C++ programmer/contributor to improve this MTR port.
+Note: This is a re-upload from the abandoned project from Sourceforge.
 
 # WinMTRCmd
 MTR for the Windows command line, hosted on GitHub because nobody likes Sourceforge.
